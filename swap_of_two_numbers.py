@@ -1,14 +1,14 @@
 #swap of two numbers
-a=int(input())
-b=int(input())
-a,b=b,a
-print(a)
-print(b)
+num1=int(input("Enter a number:"))
+num2=int(input("Enter a number:"))
+num1,num2=num2,num1
+print(num1)
+print(num2)
 #swap of two numbers 
-a=int(input())
-b=int(input())
-c=a
-a=b
-b=c
-print(a)
-print(b)
+num1=int(input("Enter a number:"))
+num2=int(input("Enter a number:"))
+num3=num1
+num1=num2
+num4=num3
+print(num1)
+print(num4)
