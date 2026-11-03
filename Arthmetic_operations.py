@@ -1,0 +1,20 @@
+# Arithmetic Operators
+
+first_number = int(input("Enter first number: "))
+second_number = int(input("Enter second number: "))
+
+addition = first_number + second_number
+subtraction = first_number - second_number
+multiplication = first_number * second_number
+division = first_number / second_number
+floor_division = first_number // second_number
+modulus = first_number % second_number
+power = first_number ** second_number
+
+print("Addition =", addition)
+print("Subtraction =", subtraction)
+print("Multiplication =", multiplication)
+print("Division =", division)
+print("Floor Division =", floor_division)
+print("Modulus =", modulus)
+print("Power =", power)
